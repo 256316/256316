@@ -1,1 +1,2 @@
 DOMAIN,appcenter.ms
+DOMAIN,ip.istatmenus.app
