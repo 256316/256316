@@ -1,3 +1,2 @@
-DOMAIN,ip.istatmenus.app
 DOMAIN,google.com
 DOMAIN,github.com
